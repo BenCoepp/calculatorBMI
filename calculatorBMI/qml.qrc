@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>loadPage.qml</file>
+        <file>lightbulb.jpg</file>
+        <file>mainPage.qml</file>
+        <file>femaleFN1.png</file>
+        <file>maleFN1.jpg</file>
+        <file>BMI_chart.gif</file>
+    </qresource>
+</RCC>
